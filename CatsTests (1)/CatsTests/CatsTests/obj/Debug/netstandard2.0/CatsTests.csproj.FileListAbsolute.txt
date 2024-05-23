@@ -1,0 +1,94 @@
+D:\Программы и игры\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.deps.json
+D:\Программы и игры\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.dll
+D:\Программы и игры\CatsTests\CatsTests\bin\Debug\netstandard2.0\ref\CatsTests.dll
+D:\Программы и игры\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.pdb
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.csproj.AssemblyReference.cache
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.AssemblyInfoInputs.cache
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.AssemblyInfo.cs
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.csproj.CoreCompileInputs.cache
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.dll
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\refint\CatsTests.dll
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.pdb
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page4\Behaviour.xaml.g.cs
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page4\Translator.xaml.g.cs
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page1\CatBreeds.xaml.g.cs
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page1\SelectedBreed.xaml.g.cs
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page2\Helps.xaml.g.cs
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page3\Recommendations.xaml.g.cs
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page3\InterestingNote.xaml.g.cs
+D:\Программы и игры\CatsTests\CatsTests\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.deps.json
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.dll
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\bin\Debug\netstandard2.0\ref\CatsTests.dll
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.pdb
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.csproj.AssemblyReference.cache
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page1\CatBreeds.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page1\SelectedBreed.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page2\Helps.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page3\InterestingNote.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page3\Recommendations.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page4\Behaviour.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page4\Translator.xaml.g.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.AssemblyInfoInputs.cache
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.AssemblyInfo.cs
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.csproj.CoreCompileInputs.cache
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\XamlC.stamp
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.dll
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\refint\CatsTests.dll
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.pdb
+D:\НПГК\3 КУРС\IT_Planet\CatsTests\CatsTests\obj\Debug\netstandard2.0\PhotoPage.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.deps.json
+D:\КОТС\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.dll
+D:\КОТС\CatsTests\CatsTests\bin\Debug\netstandard2.0\ref\CatsTests.dll
+D:\КОТС\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.pdb
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.csproj.AssemblyReference.cache
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page1\CatBreeds.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page1\SelectedBreed.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page2\Helps.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page3\InterestingNote.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page3\Recommendations.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page4\Behaviour.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page4\Translator.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\PhotoPage.xaml.g.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.AssemblyInfoInputs.cache
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.AssemblyInfo.cs
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.csproj.CoreCompileInputs.cache
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\XamlC.stamp
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.dll
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\refint\CatsTests.dll
+D:\КОТС\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.pdb
+D:\Planet2\CatsTests\CatsTests\bin\Debug\netstandard2.0\MLModel1.mlnet
+D:\Planet2\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.deps.json
+D:\Planet2\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.dll
+D:\Planet2\CatsTests\CatsTests\bin\Debug\netstandard2.0\ref\CatsTests.dll
+D:\Planet2\CatsTests\CatsTests\bin\Debug\netstandard2.0\CatsTests.pdb
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.csproj.AssemblyReference.cache
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page1\CatBreeds.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page1\SelectedBreed.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page2\Helps.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page3\InterestingNote.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page3\Recommendations.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page4\Behaviour.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page4\Translator.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page5\CooperationPage.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\Pages\Page5\VeterinaryPage.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\PhotoPage.xaml.g.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.AssemblyInfoInputs.cache
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.AssemblyInfo.cs
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.csproj.CoreCompileInputs.cache
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.dll
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\refint\CatsTests.dll
+D:\Planet2\CatsTests\CatsTests\obj\Debug\netstandard2.0\CatsTests.pdb

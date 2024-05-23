@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CatsTests.Pages.Recommendations">
+    <ScrollView>
+        <StackLayout BackgroundColor="#8894B3">
+            <Frame Padding="10" CornerRadius="0" BackgroundColor="#DFEDF3">
+                <Label Text="Интересные статьи" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20"/>
+            </Frame>
+
+            <ListView x:Name="noteList" ItemSelected="OnItemSelected" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                
+                                <Frame CornerRadius="10" Padding="10" HasShadow="True" BackgroundColor="#EEEEEE" Margin="7,5,10,5">
+                                    <Grid Padding="10" ColumnSpacing="10">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto" />
+                                            <ColumnDefinition Width="*" />
+                                        </Grid.ColumnDefinitions>
+
+                                        <Image Grid.Column="0" Source="{Binding NoteImage}" HeightRequest="75" WidthRequest="75" Aspect="AspectFill" />
+
+                                        <Label Grid.Column="1" Text="{Binding NoteName}" FontSize="16" VerticalOptions="Center" />
+                                    </Grid>
+                                </Frame>
+
+                                <!--<StackLayout Orientation="Horizontal">
+                                    <Grid>
+                                        <Label Text="{Binding NoteName}" TextColor="Black" Margin="10" FontSize="16" Grid.Column="0"/>
+                                    </Grid>
+                                </StackLayout>-->
+
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CatsTests.PhotoPage">
+
+    <ScrollView>
+        <StackLayout BackgroundColor="#8894B3">
+            <Frame Padding="10" CornerRadius="0" BackgroundColor="#DFEDF3">
+            <Label Text="Определитель" HorizontalTextAlignment="Center"  FontAttributes="Bold" FontSize="20"/>
+        </Frame>
+
+            <!--<Image x:Name="CatImage" HeightRequest="300" WidthRequest="300" />
+            <Button Text="Select Image" Clicked="SelectImageClicked" />
+            <Label x:Name="ResultLabel" FontSize="18" HorizontalTextAlignment="Center" />-->
+
+            <Frame CornerRadius="25" Margin="15">
+            <StackLayout>
+                    <Image x:Name="selectedImage"/>
+            </StackLayout>
+        </Frame>
+
+        <Button Clicked="Button_Clicked" Text="Прогноз"/>
+
+        <Frame CornerRadius="25" Margin="15">
+            <StackLayout>
+                <Label Text="Результат породы" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                <Grid RowDefinitions="*,*" ColumnDefinitions="2*,*">
+                    <Label Text="Порода 1" Grid.Row="0" Grid.Column="0"  x:Name="br1"/>
+                    <Label Text="Порода 2" Grid.Row="1" Grid.Column="0"  x:Name="br2"/>
+                    <Label Text="Порода 3" Grid.Row="2" Grid.Column="0"  x:Name="br3"/>
+
+                    <Label Text="0%" Grid.Row="0" Grid.Column="1" x:Name="res1"/>
+                    <Label Text="0%" Grid.Row="1" Grid.Column="1" x:Name="res2"/>
+                    <Label Text="0%" Grid.Row="2" Grid.Column="1" x:Name="res3"/>
+
+                    </Grid>
+                <Label Text="Функция находится в доработке" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+            </StackLayout>
+        </Frame>
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CatsTests.AppShell" 
+       xmlns:Views="clr-namespace:CatsTests.Pages"
+       xmlns:Views1="clr-namespace:CatsTests"
+       xmlns:Views2="clr-namespace:CatsTests.Pages.Page5">
+
+    <!--Верхняя часть для фона-->
+    <Shell.FlyoutHeaderTemplate>
+        <DataTemplate>
+            <StackLayout BackgroundColor="White" Margin="10">
+                <Label Text="Кошачий журнал" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center" Grid.Row="0"/>
+                <Image Aspect="Fill" Source="IconKitty.png" Grid.Row="1"/>
+            </StackLayout>
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+    <!--Нижняя часть для фона-->
+    <Shell.FlyoutFooterTemplate>
+        <DataTemplate>
+            <StackLayout BackgroundColor="White" > 
+                <Label Text="Обратная связь" TextColor="#9B9995"
+                  FontAttributes="Bold" HorizontalTextAlignment="Center"
+                  HorizontalOptions="Center"/>
+                <Label Text="dobrokotiki@gmail.com" TextColor="#9B9995"
+                    FontAttributes="Bold" HorizontalTextAlignment="Center"
+                    HorizontalOptions="Center" />
+            </StackLayout>
+        </DataTemplate>
+    </Shell.FlyoutFooterTemplate>
+
+    <FlyoutItem Title="Все породы" Icon="Journal.png">
+        <Tab>
+            <ShellContent ContentTemplate="{DataTemplate Views:CatBreeds}">
+                <ContentPage></ContentPage>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+    <FlyoutItem Title="Определитель" Icon="PhotoMaker.png">
+        <Tab>
+            <ShellContent ContentTemplate="{DataTemplate Views1:PhotoPage}">
+                <ContentPage></ContentPage>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+
+    <FlyoutItem Title="Подсказки" Icon="Quest.png">
+        <Tab>
+            <ShellContent ContentTemplate="{DataTemplate Views:Helps}">
+                <ContentPage></ContentPage>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+    <FlyoutItem Title="Интересные статьи" Icon="Voskl.png">
+        <Tab>
+            <ShellContent ContentTemplate="{DataTemplate Views:Recommendations}">
+                <ContentPage></ContentPage>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+    <FlyoutItem Title="Поведение котиков" Icon="Voskl.png">
+        <Tab>
+            <ShellContent ContentTemplate="{DataTemplate Views:Translator}">
+                <ContentPage></ContentPage>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+
+    <FlyoutItem Title="Сотрудничество" Icon="clinik.png">
+        <Tab>
+            <ShellContent ContentTemplate="{DataTemplate Views2:CooperationPage}">
+                <ContentPage></ContentPage>
+            </ShellContent>
+        </Tab>
+    </FlyoutItem>
+
+
+
+</Shell>

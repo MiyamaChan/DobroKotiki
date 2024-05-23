@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CatsTests.Pages.Helps">
+
+    <ScrollView>
+        <StackLayout BackgroundColor="#8894B3">
+            <Frame Padding="10" CornerRadius="0" >
+                <Label Text="Подсказки!" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20"/>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="Главное меню" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="Для перехода к главным окнам приложения потяните панель слева направо и выберите нужный пункт."/>
+                </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="Породы, интересные заметки и поведение" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="Нажмите на один из пунктов в списке для просмотра описания."/>
+                </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="Определитель" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="Нажмите на на кнопку 'Прогноз' далее выберите фото вашего котика, а результат будет отображаться в таблице ниже. Если ваше фото не удается распознать, то возможно на нем много дополнительных предметов, которые мешают распознанию. В дальнейшем данная функция будет работать точнее."/>
+                </StackLayout>
+            </Frame>
+
+
+            <Button x:Name="Back" Text="Назад" Clicked="Back_Clicked"/>
+            
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

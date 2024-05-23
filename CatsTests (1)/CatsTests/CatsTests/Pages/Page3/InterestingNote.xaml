@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CatsTests.Pages.Page3.InterestingNote">
+    <ScrollView>
+        <StackLayout BackgroundColor="#8894B3">
+            <Frame Padding="12" CornerRadius="0" >
+                <Label Text="Статья муркс" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20"/>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="{Binding NoteName}" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="{Binding NoteDescr}" />
+                </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <Image x:Name="picture" Source="{Binding NoteImage}" />
+            </Frame>
+            
+
+            <Button x:Name="Back" Text="Назад" Clicked="Back_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

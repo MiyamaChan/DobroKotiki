@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CatsTests.Pages.Page1.SelectedBreed">
+    <ScrollView>
+        <StackLayout BackgroundColor="#8894B3">
+            <Frame Padding="12" CornerRadius="0" >
+                <Label Text="{Binding BreedsName}" HorizontalTextAlignment="Center" FontAttributes="Bold" FontSize="20"/>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="Описание" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="{Binding BreedsDescr}"  />
+                </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <Image x:Name="picture" Source="{Binding BreedsImage}" />
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="Основные характеристики" TextColor="#326273" FontSize="20" FontAttributes="Bold" />
+                    <Grid RowDefinitions="*,*" ColumnDefinitions="*,3*">
+                        <Label Text="Вес:" Grid.Row="0" Grid.Column="0" />
+                        <Label Text="Цена:" Grid.Row="1" Grid.Column="0"  />
+
+                        <Label Text="{Binding BreedsWeight}" Grid.Row="0" Grid.Column="1" />
+                        <Label Text="{Binding BreedsCost}" Grid.Row="1" Grid.Column="1" />
+                    </Grid>
+                </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="Характер" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="{Binding BreedsPersonality}" />
+                </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="История породы" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="{Binding BreedsHistory}" />
+                </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <Image x:Name="picture2" Source="{Binding BreedsImage2}" />
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="Уход" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="{Binding BreedsCatCare}" />
+                </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="25" Margin="15">
+                <StackLayout>
+                    <Label Text="Обучение" TextColor="#326273" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="{Binding BreedsTraining}" />
+                </StackLayout>
+            </Frame>
+            
+            <Button x:Name="Back" Text="Назад" Clicked="Back_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

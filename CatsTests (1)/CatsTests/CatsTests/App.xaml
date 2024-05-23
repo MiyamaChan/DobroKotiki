@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CatsTests.App">
+    <Application.Resources>
+        <!--Панель-->
+        <Style TargetType="StackLayout">
+            <Setter Property="BackgroundColor" Value="#EEEEEE"/> 
+        </Style>
+
+        <Style TargetType="Frame">
+            <Setter Property="BackgroundColor" Value="#EEEEEE"/>
+        </Style>
+
+        <!--Текст-->
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Margin" Value="1"/>
+            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="Margin" Value="3,0"/>
+        </Style>
+
+        <!--Кнопка-->
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="TextColor" Value="Black"/>
+            <Setter Property="BackgroundColor" Value="#E6E6FF"/>
+            <Setter Property="CornerRadius" Value="50"/>
+            <Setter Property="Margin" Value="10,5"/>
+        </Style>
+    </Application.Resources>
+</Application>
